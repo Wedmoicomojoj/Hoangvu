@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <title> lon </title>
+    <style>
+  <body> {
+      background-color: black;
+      text-align: center;
+      padding: 400px;
+      }
+      h1 {
+         font-size: 20px;
+         clor: white;
+         clor:  #eeee33;
+         }
+    </style>
+  </head>
+  </body>
+    <h1>  </h1>
+  </body>
+</html>
